@@ -1,0 +1,69 @@
+<!doctype html>
+
+<html>
+
+
+<head>
+    <style>
+        .button {
+            background-color: black;
+            border: white 1px;
+            color: black;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+         float:left;
+            font-size: 50px;
+            margin: 4px 2px;
+            cursor: pointer;
+            text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+            width:200px;
+            height:200px;
+        }.buttontext{
+          width:100px;
+          height:20px;
+        }.buttonimage{
+          width:100px;
+          height:20px;
+        }#myImage{
+          position:absolute;
+          top:12px;
+          left:10px;
+          width:200px;
+          height:200px;
+        }#myImage2{
+          position:absolute;
+         top:12px;
+        left:214px;
+          width:200px;
+          height:200px;
+        }#myImage3{
+          position:absolute;
+         top:12px;
+        left:418px;
+          width:200px;
+          height:200px;
+        }#myImage4{
+          position:absolute;
+         top:12px;
+        left:622px;
+          width:200px;
+          height:200px;
+        }#myImage5{
+          position:absolute;
+         top:12px;
+        left:826px;
+          width:200px;
+          height:200px;
+        }
+    </style>
+</head>
+<body>
+    <button class="button" onclick="document.getElementById('myImage').src='OR.png'"><img id="myImage">OR</button>
+    <button class="button" onclick="document.getElementById('myImage2').src='and.png'"><img id="myImage2">AND</button>
+    <button class="button" onclick="document.getElementById('myImage3').src='not.png'"><img id="myImage3">NOT</button>
+    <button class="button" onclick="document.getElementById('myImage4').src='nor.png'"><img id="myImage4">NOR</button>
+    <button class="button" onclick="document.getElementById('myImage5').src='nand.png'"><img id="myImage5">NAND</button>
+</body>
+
+</html>
