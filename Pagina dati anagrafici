@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <title>Hello World</title>
+   </head>
+     <body>
+            <h1>Hello World</h1>
+            <p>This is my first webpage.<br/> i hope you like it </p>
+            <p>Another paragraph.</p>
+            
+            <img src="image.bmp" />
+       
+       
+       
+       </body>
+
+
+<body>
+     <h1><strong>La mia scheda anagrafica<strong></h1>
+     <p>Mi chiamo Denis Serpentino<br> ho 17 anni quasi 18 <br> vivo a moncalieri</p>
+
+<body>
+     <h3> <table border="2"align="center">
+<tr>
+
+
+
+<p> I miei hobby sono giocare a calcio, il nuoto e i videogiochi.
+
+</tr>
+</body>
+
+
+
+
+<a href="https://www.staynerd.com/assassins-creed-tutta-la-storia-della-saga/" >Assassin's Creed saga </a>
+<br>
+<a href="https://www.nike.com"> Sito nike </a>
+<br>
+<a href="https://www.adidas.it">sito adidas </a>
+<br>
+<a href="https://www.youtube.com">youtube </a>
+       <br>
+       
+<a href="http://www.playstation.com"">playstation  </a>
+<br>
+       <a href="http://www.inps.it ">L'Inps  </a>
+
+       <br>
+
+<a href="https://m.shein.com ">Sito di shein   </a>
+
+
+
+
+
+
+</html>
